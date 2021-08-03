@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/10_TodaysWiseSaying" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_BMI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_Lottery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_SecretDiary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4_Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_ElectronicPhotoFrame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/6_PomodoroTimer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/8_WebBrowser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9_PushNotification" vcs="Git" />
+  </component>
+</project>
